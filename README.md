@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, MATLAB, AWS, Azure, PowerBI
 
 ## Education
-M.S. - Biomedical Engineeering | University of Minho at Braga (_December 2024_)
-B.S. - Biomedical Engineeering | University of Minho at Braga (_July 2021_)
+- M.S. - Biomedical Engineeering | University of Minho at Braga (_December 2024_)
+- B.S. - Biomedical Engineeering | University of Minho at Braga (_July 2021_)
 
 ## Certifications
 **AWS Cloud @ Udemy (_March 2025_)**
