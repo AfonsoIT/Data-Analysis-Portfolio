@@ -4,6 +4,7 @@
 
 ## Education
 M.S. - Biomedical Engineeering | University of Minho at Braga (_December 2024_)
+B.S. - Biomedical Engineeering | University of Minho at Braga (_July 2021_)
 
 ## Certifications
 **AWS Cloud @ Udemy (_March 2025_)**
@@ -26,4 +27,8 @@ Led a team in the development of a project to create microfibers based on hyalur
 Employed advanced analytical tools, including a Goniometer, a Dynamic MechanicalAnalyzer (DMA), and various microscopy techniques to assess fiber properties. 
 Conducted in vitro testing using cell cultures to evaluate the fibers’ bioactivity andbiocompatibility. Underwent specialized training to properly maintain and handle cells incontrolled cell culture laboratories.
 Produced and validated microfibers with promising properties for nerve tissue engineering,demonstrating their potential for neuronal regeneration applications.
+
+This project will be presented in Germany this May at TERMIS-EU 2025
+
+
 
